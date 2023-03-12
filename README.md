@@ -1,1 +1,1 @@
-# STAT1013-final-projrct
+# STAT1013-final-project
